@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&width=435&lines&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Allan+Arruda!+😄👋;I'm+22+years+old.+✨;I+from+Brazil!+💚+💛;I+Graduated+in+Systems+Analysis+and+Development.+📚;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&width=435&lines&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Allan+Arruda!+😄👋;I'm+24+years+old.+✨;I+from+Brazil!+💚+💛;I+Graduated+in+Systems+Analysis+and+Development.+📚;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
@@ -28,5 +28,5 @@
 
 ## Um pouco sobre mim:
 
-No momento me encontro estudando Java e Spring e creascendo em conhecimento a cada dia, estou em busca do meu primeiro emprego como Desenvolvedor Junior/Trainee.
-Atualmente desempenho a função de Analista de Suporte em transição de área.
+No momento me encontro estudando Java e Spring e creascendo em conhecimento a cada dia, estou em busca do meu primeiro emprego como Desenvolvedor Junior.
+Atualmente desempenho a função de Analista de Sistemas com foco em Análise de Sistemas.
