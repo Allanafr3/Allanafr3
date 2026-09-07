@@ -28,5 +28,6 @@
 
 ## Um pouco sobre mim:
 
-No momento me encontro estudando Java e Spring e creascendo em conhecimento a cada dia, estou em busca do meu primeiro emprego como Desenvolvedor Junior.
-Atualmente desempenho a função de Analista de Sistemas com foco em Análise de Sistemas.
+Atualmente, atuo como Analista de Sistemas, com foco em análise, resolução de problemas e suporte às demandas de sistemas. Paralelamente, venho aprimorando meus conhecimentos em Java e Spring, buscando evoluir continuamente na área de desenvolvimento de software.
+
+Estou em busca da minha primeira oportunidade como Desenvolvedor Java Júnior, onde possa aplicar meus conhecimentos, contribuir com a equipe e continuar crescendo profissionalmente na área de desenvolvimento back-end.
